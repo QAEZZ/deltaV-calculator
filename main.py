@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from numpy import log as ln
 import math
 import subprocess as sub
 from colorama import init, Fore, Style
